@@ -1,0 +1,227 @@
+		body{
+			margin: 0;
+			padding: 0px;
+			height: auto;
+		
+		}
+		#container{
+				width: 100%;
+				margin: 0;
+				padding: 80px;
+				background-color:  #545454;
+				 text-align: right;				
+		}
+		
+		
+		
+		
+		header{
+			width: 1100px;
+			color: gray;
+			padding: 0px;
+			margin: 0;
+			position: absolute;
+			top:80;
+		}
+		#content{
+			position: absolute;
+			width: 700px;
+			top: 400px;
+			font-size: 36px;
+			right: 930px;
+			font-family: arial;
+		}
+		#cheapflights {
+			position:absolute;
+			width: 800px;
+			top:350px;
+			right: 900px;
+			font-family:arial;
+			font-size: 28px;
+		}
+		#foodheadline{
+			position:absolute;
+		font-weight: bold;
+		top: 205px;
+		padding: 15px 32px;
+		left: 160px;
+		font-size: 56px;
+		font-family: tahoma;
+		color: #ffcc00;
+
+		}
+		#advicetext {
+			position:absolute;
+			width: 700px;
+			top:350px;
+			right: 100px;
+			font-family:arial;
+			font-size: 28px;
+		}
+		
+		#justs {
+			top:0px;
+			right: 1150px;
+			position:absolute;
+		
+		}
+		.nav {
+	text-align: center; 
+	top:50px; 
+	position: absolute; 
+	right: 450px;
+	font-size: 28px;
+	
+	
+  
+		}
+
+	.nav a {
+		background: gray;
+		font-family: arial;
+		color: black;
+		display: inline-block;
+		margin: 0px;
+		padding: 20px;
+		text-decoration: none;
+		}
+
+	.nav a:hover {
+		background: black;
+		color: #ffcc00;
+		}
+		
+		
+		#text1 {
+			 color: white;
+		}
+  		
+
+		.text {
+			font-family: arial;
+			font-weight: 900;
+			
+		}
+		#col1 {
+			color:  #ffcc00;
+				
+			
+		}	
+		h2 {
+			font-family: arial;
+			background-color: #ffcc00;
+			border: none;
+			color: #3F3F3F;
+			padding: 15px 60px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 46px;
+		
+		}
+	
+		.background img{
+			float: middle;
+			margin: 250px 0px 0px 200px;
+			width: 800px;
+			height:400px;
+		}
+			
+		#foodtext {
+			position:absolute;
+			width: 800px;
+			top:730px;
+			right: 180px;
+			font-family:arial;
+			font-size: 28px;
+				}
+				
+		#footertext {
+			color: black;
+		}
+		
+		
+	.plane{
+		width: 100px;
+		position
+    }
+
+	#cheaphead { 
+	position:absolute;
+		font-weight: bold;
+		top: 205px;
+		padding: 15px 32px;
+		left: 600px;
+		font-size: 56px;
+		font-family: tahoma;
+		color: #ffcc00;
+	
+	}
+	#adviceheadline {
+		position:absolute;
+		font-weight: bold;
+		top: 205px;
+		padding: 15px 32px;
+		left: 750px;
+		font-size: 56px;
+		font-family: tahoma;
+		color: #ffcc00;
+	}
+	.advice img{
+		position: absolute;
+		width: 1000px;
+		height: 800px;
+		margin: 200px 0px 0px 70px;
+		float: right
+	}
+		
+		
+	.ryanair img{
+		position: absolute;
+		float: middle;
+		margin: 200px 0px 0px 1200px;
+		width: 558px;
+		height: 769px;
+}
+	.food2 img{
+		position:absolute;
+		float: left;
+		margin: 0px 0px 0px 900px;
+		height: 500px;
+		width: 850px;
+		top: 200px;
+	}	
+	.food1 img{
+		position:absolute;
+		float: right;
+		margin: 0px 0px 0px 130px;
+		top:400px;
+	}
+	
+	
+.share {
+			
+  border: 1px solid LightGrey;
+  position: absolute;
+  padding: 50px;
+  text-align: center;
+  width: 100%;
+  top: 1400px;
+  background-color: #545454;
+}
+
+.share a {
+	font-size: 28px;
+  background: grey;
+  color: black;
+  display: inline-block;
+  margin: 0px;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.share a:hover {
+  background: black;
+  color: #ffcc00;
+}
+		
